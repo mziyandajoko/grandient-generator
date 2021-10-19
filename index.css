@@ -6,7 +6,10 @@ body{
 form{
     height: 400px;
     padding: 15px;
-    background-color: red;
     align-items: center;
     justify-content: center;
+}
+
+.gradient{
+    background-color: inear-gradient(blue 50%, #ff99cc);
 }
